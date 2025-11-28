@@ -1,0 +1,2 @@
+class EmployeeReportException(Exception):
+    pass

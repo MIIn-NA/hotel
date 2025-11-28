@@ -1,0 +1,2 @@
+class InventoryReportException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class ServiceReportException(Exception):
+    pass

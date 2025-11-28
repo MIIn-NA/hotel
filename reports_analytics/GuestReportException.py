@@ -1,0 +1,2 @@
+class GuestReportException(Exception):
+    pass

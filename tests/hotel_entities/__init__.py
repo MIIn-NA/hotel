@@ -1,0 +1,1 @@
+# Hotel entities module tests

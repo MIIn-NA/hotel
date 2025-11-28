@@ -1,0 +1,2 @@
+class HotelException(Exception):
+    pass

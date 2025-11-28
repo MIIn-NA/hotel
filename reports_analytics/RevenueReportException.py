@@ -1,0 +1,2 @@
+class RevenueReportException(Exception):
+    pass

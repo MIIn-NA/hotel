@@ -1,0 +1,2 @@
+class OccupancyReportException(Exception):
+    pass
